@@ -1,2 +1,0 @@
-# GitTrainingRepository
-Git Training Repository
